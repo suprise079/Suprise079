@@ -24,6 +24,20 @@
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+
+- :telescope: I work as a QA engineer and also perform a lot of work in software development, both front end and backend.
+
+- :seedling: Exploring AI and machine learning.
+
+- :zap: In my free time, I work on personal project or spend time with family.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suprise-ngoveni-35b07a1b1)
+
 
 
 <!--
