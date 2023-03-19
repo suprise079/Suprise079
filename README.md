@@ -37,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I work on personal project or spend time with family.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suprise-ngoveni-35b07a1b1)
+- ⚡ Fun fact: In God we trust, everything else we test 😊
 
 
 
