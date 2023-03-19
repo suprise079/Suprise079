@@ -20,6 +20,10 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="300"/>
+</div>
+
 
 
 <!--
